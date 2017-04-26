@@ -1,0 +1,18 @@
+# DATATYPES
+GSM_MQTT    KEYWORD1
+
+# METHODS AND FUNCTIONS
+connect     KEYWORD2
+publish     KEYWORD2
+begin       KEYWORD2
+available   KEYWORD2
+processing  KEYWORD2
+AutoConnect KEYWORD2
+OnConnect   KEYWORD2
+OnMessage   KEYWORD2
+unsubscribe KEYWORD2
+disconnect  KEYWORD2
+
+# CONSTANTS
+MQTT_HOST   LITERAL1
+MQTT_PORT   LITERAL1
